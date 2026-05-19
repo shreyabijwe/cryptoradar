@@ -1,0 +1,81 @@
+id,coin_id,headline,source,published_at,polarity,subjectivity,sentiment_label,fetched_at
+1,bitcoin,"Strategy buys approximately 25,000 Bitcoin for over $2 billion",Crypto Briefing,2026-05-18T12:07:07Z,-0.4,0.6,Negative,2026-05-19 17:39:39
+2,bitcoin,It’s Time To Challenge The Blockchain Industry On Quantum Security,Forrester.com,2026-05-18T12:06:14Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+3,bitcoin,"Morning Minute: Bitcoin Slides Back to $77K on Rising Bond Yields, Oil Spike",Decrypt,2026-05-18T12:05:32Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+4,bitcoin,"Billionaire Michael Saylor said he would never sell bitcoin. After 3 straight quarterly losses, he's changing his mind",Yahoo Entertainment,2026-05-18T12:00:00Z,0.2,0.4,Positive,2026-05-19 17:39:39
+5,bitcoin,Iran plans to offer insurance for Hormuz transit: Will it work?,Al Jazeera English,2026-05-18T11:57:45Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+6,bitcoin,"Here Are Monday’s Top Wall Street Analyst Research Calls: Applied Materials, CoreWeave, Deckers Outdoor, F5, Lam Research, Salesforce, ServiceNow, Zscaler, and More",24/7 Wall St.,2026-05-18T11:56:43Z,0.5,0.5,Positive,2026-05-19 17:39:39
+7,bitcoin,Jameson Lopp warns crypto holders to adopt zero trust approach after phishing scheme,Crypto Briefing,2026-05-18T11:52:03Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+8,bitcoin,"$563M in crypto longs liquidated in 24 hours, biggest wipeout since February",Crypto Briefing,2026-05-18T11:50:39Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+9,bitcoin,"Canadian Man Allegedly Impersonates Crypto Support Agents To Drain $13,000,000 From Victims",The Daily Hodl,2026-05-18T11:45:19Z,-0.1,0.1,Neutral,2026-05-19 17:39:39
+10,bitcoin,"Bitcoin and ethereum prices today, Monday, May 18, 2026: Prices are down and moving lower this morning",Yahoo Entertainment,2026-05-18T11:41:00Z,-0.15555555555555556,0.2888888888888889,Negative,2026-05-19 17:39:39
+11,bitcoin,Bitcoin Hormuz payments for ship insurance will test crypto’s neutral money thesis,CryptoSlate,2026-05-18T11:36:19Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+12,bitcoin,BTC Price Drops Below $77K: What Is Happening With Bitcoin and Crypto on May 18?,Bitcoinfoundation.org,2026-05-18T11:33:19Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+13,bitcoin,"BTQ Technologies Announces Shareholder Call and Provides Q1 2026 Corporate Update Highlighting Commercial Progress Across QCIM, QPerfect, QSSN and Bitcoin Quantum",PRNewswire,2026-05-18T11:30:00Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+14,bitcoin,Bitcoin falls to $76K after Trump says ‘clock is ticking’ for Iran,Cointelegraph,2026-05-18T11:25:57Z,0.0,0.0,Neutral,2026-05-19 17:39:39
+15,bitcoin,Bitcoin Slides Under $77K as Crypto Liquidations Top $672M Amid Bond Sell-Off,Decrypt,2026-05-18T11:20:51Z,0.5,0.5,Positive,2026-05-19 17:39:39
+16,bitcoin,Bitcoin Slides Under $77K as Crypto Liquidations Top $672M Amid Bond Sell-Off,Yahoo Entertainment,2026-05-18T11:20:51Z,0.5,0.5,Positive,2026-05-19 17:39:39
+17,bitcoin,Peter Schiff Shoots Down Michael Saylor’s Bitcoin-as-Skyscraper Pitch,Yahoo Entertainment,2026-05-18T11:20:06Z,-0.15555555555555556,0.2888888888888889,Negative,2026-05-19 17:39:39
+18,bitcoin,Standard Chartered moves to take full control of Zodia Custody’s digital asset business,Crypto Briefing,2026-05-18T11:19:03Z,0.11666666666666665,0.18333333333333335,Positive,2026-05-19 17:39:39
+19,bitcoin,Wallet makers are the quiet backbone of the crypto industry. Now they want to be banks,Fortune,2026-05-18T11:11:26Z,0.0,0.3333333333333333,Neutral,2026-05-19 17:39:39
+20,bitcoin,XRP Ledger’s 121% RWA Surge Is Leaving Solana And BNB Chain Behind — Here’s The Data,newsBTC,2026-05-18T11:07:47Z,-0.4,0.7,Negative,2026-05-19 17:39:39
+21,ethereum,blindference-node added to PyPI,Pypi.org,2026-05-18T12:07:16Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+22,ethereum,It’s Time To Challenge The Blockchain Industry On Quantum Security,Forrester.com,2026-05-18T12:06:14Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+23,ethereum,"Morning Minute: Bitcoin Slides Back to $77K on Rising Bond Yields, Oil Spike",Decrypt,2026-05-18T12:05:32Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+24,ethereum,"Pepe Dollar Launches Stage 3 of PEPD Presale With Gaming, Payments, and Community Tools",GlobeNewswire,2026-05-18T12:01:00Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+25,ethereum,"Here Are Monday’s Top Wall Street Analyst Research Calls: Applied Materials, CoreWeave, Deckers Outdoor, F5, Lam Research, Salesforce, ServiceNow, Zscaler, and More",24/7 Wall St.,2026-05-18T11:56:43Z,0.5,0.5,Positive,2026-05-19 17:39:40
+26,ethereum,Jameson Lopp warns crypto holders to adopt zero trust approach after phishing scheme,Crypto Briefing,2026-05-18T11:52:03Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+27,ethereum,"$563M in crypto longs liquidated in 24 hours, biggest wipeout since February",Crypto Briefing,2026-05-18T11:50:39Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+28,ethereum,"Bitcoin and ethereum prices today, Monday, May 18, 2026: Prices are down and moving lower this morning",Yahoo Entertainment,2026-05-18T11:41:00Z,-0.15555555555555556,0.2888888888888889,Negative,2026-05-19 17:39:40
+29,ethereum,BTC Price Drops Below $77K: What Is Happening With Bitcoin and Crypto on May 18?,Bitcoinfoundation.org,2026-05-18T11:33:19Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+30,ethereum,"FG Nexus Inc. Declares Cash Dividend on Its 8.00% Cumulative Preferred Stock, Series A",GlobeNewswire,2026-05-18T11:30:00Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+31,ethereum,Standard Chartered moves to take full control of Zodia Custody’s digital asset business,Crypto Briefing,2026-05-18T11:19:03Z,0.11666666666666665,0.18333333333333335,Positive,2026-05-19 17:39:40
+32,ethereum,Wallet makers are the quiet backbone of the crypto industry. Now they want to be banks,Fortune,2026-05-18T11:11:26Z,0.0,0.3333333333333333,Neutral,2026-05-19 17:39:40
+33,ethereum,XRP Ledger’s 121% RWA Surge Is Leaving Solana And BNB Chain Behind — Here’s The Data,newsBTC,2026-05-18T11:07:47Z,-0.4,0.7,Negative,2026-05-19 17:39:40
+34,ethereum,"AFX Launches Sovereign Layer 1, Providing an Optimized Execution Environment for On-chain Perp DEXes",GlobeNewswire,2026-05-18T11:05:00Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+35,ethereum,What Is Tether Gold (XAUT)? How Gold-Backed Crypto Works & Why Investors Buy It in 2026,Bitcoinfoundation.org,2026-05-18T11:02:59Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+36,ethereum,Onfolio Holdings Inc. Announces Q1 2026 Financial Results and Provides Corporate Update,GlobeNewswire,2026-05-18T11:00:00Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+37,ethereum,South Korea's LetinAR is building optics behind AI glasses | TechCrunch,TechCrunch,2026-05-18T11:00:00Z,-0.4,0.7,Negative,2026-05-19 17:39:40
+38,ethereum,Top Crypto Billionaires May 2026: Who Made the Biggest Fortune This Cycle?,Bitcoinfoundation.org,2026-05-18T10:50:17Z,0.5,0.5,Positive,2026-05-19 17:39:40
+39,ethereum,"Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",Cointelegraph,2026-05-18T10:47:03Z,0.0,0.0,Neutral,2026-05-19 17:39:40
+40,ethereum,"Sensex today | Stock Market Highlights: Sensex closes flat, Nifty ends at 23,650 as Iran war worries offset IT gains",BusinessLine,2026-05-18T10:32:45Z,-0.025,0.125,Neutral,2026-05-19 17:39:40
+41,binancecoin,BTC Price Drops Below $77K: What Is Happening With Bitcoin and Crypto on May 18?,Bitcoinfoundation.org,2026-05-18T11:33:19Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+42,binancecoin,XRP Ledger’s 121% RWA Surge Is Leaving Solana And BNB Chain Behind — Here’s The Data,newsBTC,2026-05-18T11:07:47Z,-0.4,0.7,Negative,2026-05-19 17:39:41
+43,binancecoin,"Compliance Crisis Stalling US-Latin America Crypto Deals, BRACKT AI Data Reveals",PRNewswire,2026-05-18T11:00:00Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+44,binancecoin,Top Crypto Billionaires May 2026: Who Made the Biggest Fortune This Cycle?,Bitcoinfoundation.org,2026-05-18T10:50:17Z,0.5,0.5,Positive,2026-05-19 17:39:41
+45,binancecoin,"Sensex today | Stock Market Highlights: Sensex closes flat, Nifty ends at 23,650 as Iran war worries offset IT gains",BusinessLine,2026-05-18T10:32:45Z,-0.025,0.125,Neutral,2026-05-19 17:39:41
+46,binancecoin,How Trump's crypto venture and Iran's top exchange tapped into the same industry networks,BusinessLine,2026-05-18T10:00:42Z,0.25,0.3125,Positive,2026-05-19 17:39:41
+47,binancecoin,Bitcoin ETF Flows May 2026: $1.25B Outflows Hit Bitcoin and Ethereum ETFs This Week,Bitcoinfoundation.org,2026-05-18T09:44:03Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+48,binancecoin,Two crypto billionaires sit behind both the Trump family token and Iran’s sanctions-evasion engine,The Next Web,2026-05-18T09:39:10Z,-0.4,0.7,Negative,2026-05-19 17:39:41
+49,binancecoin,Binance Launches Official WhatsApp Channel for India to Bring Trusted Crypto Updates and Web3 Education,BusinessLine,2026-05-18T09:27:09Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+50,binancecoin,Bitcoin falls to two-week low of $76.7K as crypto market selloff triggers $661 million liquidations,The Times of India,2026-05-18T05:24:45Z,0.0,0.3,Neutral,2026-05-19 17:39:41
+51,binancecoin,Zcash Surges on Nostalgia for Crypto’s Early Days,Thedailyupside.com,2026-05-18T04:01:00Z,0.1,0.3,Neutral,2026-05-19 17:39:41
+52,binancecoin,"Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch",Cointelegraph,2026-05-18T02:40:22Z,0.0,1.0,Neutral,2026-05-19 17:39:41
+53,binancecoin,"Grayscale, VanEck File Amendments For BNB ETF – Next Altcoin Launch?",Bitcoinist,2026-05-17T23:00:17Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+54,binancecoin,Closing the Gap: The Regulatory and Structural Maturation of Digital Assets,HackRead,2026-05-17T22:21:16Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+55,binancecoin,‘Unstoppable’ Crypto Exchange Halts Trading After $10 Million Theft,Gizmodo.com,2026-05-17T19:14:07Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+56,binancecoin,"XRP’s bullish signals are building, but price action has yet to follow",CryptoSlate,2026-05-17T19:05:23Z,0.1,0.1,Neutral,2026-05-19 17:39:41
+57,binancecoin,Rising Bitcoin Volatility Drives Demand for AI Systems as AIX Alpha Expands Quant Infrastructure,GlobeNewswire,2026-05-17T19:00:00Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+58,binancecoin,Binance Records $1.5 Billion Stablecoin Net Inflow Amid Highly Reactive Market,newsBTC,2026-05-17T18:00:10Z,0.08,0.27,Neutral,2026-05-19 17:39:41
+59,binancecoin,BeInCrypto Institutional Research: 15 Stablecoin Infrastructures Powering Crypto Offerings,BeInCrypto,2026-05-17T16:54:00Z,0.0,0.0,Neutral,2026-05-19 17:39:41
+60,binancecoin,Is It Time for XRP? AixAlpha Launches First AI-Powered XRP Quantitative System,GlobeNewswire,2026-05-17T14:30:00Z,0.25,0.3333333333333333,Positive,2026-05-19 17:39:41
+61,solana,It’s Time To Challenge The Blockchain Industry On Quantum Security,Forrester.com,2026-05-18T12:06:14Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+62,solana,"Morning Minute: Bitcoin Slides Back to $77K on Rising Bond Yields, Oil Spike",Decrypt,2026-05-18T12:05:32Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+63,solana,"Here Are Monday’s Top Wall Street Analyst Research Calls: Applied Materials, CoreWeave, Deckers Outdoor, F5, Lam Research, Salesforce, ServiceNow, Zscaler, and More",24/7 Wall St.,2026-05-18T11:56:43Z,0.5,0.5,Positive,2026-05-19 17:39:42
+64,solana,BTC Price Drops Below $77K: What Is Happening With Bitcoin and Crypto on May 18?,Bitcoinfoundation.org,2026-05-18T11:33:19Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+65,solana,XRP Ledger’s 121% RWA Surge Is Leaving Solana And BNB Chain Behind — Here’s The Data,newsBTC,2026-05-18T11:07:47Z,-0.4,0.7,Negative,2026-05-19 17:39:42
+66,solana,Bitcoin drops to two-week low as US-Iran tensions rattle crypto markets,Nationpress.com,2026-05-18T11:03:33Z,0.0,0.3,Neutral,2026-05-19 17:39:42
+67,solana,Bitget IPO Prime Taps Into $4T AI Opportunity With OpenAI,Financial Post,2026-05-18T11:02:15Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+68,solana,Onfolio Holdings Inc. Announces Q1 2026 Financial Results and Provides Corporate Update,GlobeNewswire,2026-05-18T11:00:00Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+69,solana,Top Crypto Billionaires May 2026: Who Made the Biggest Fortune This Cycle?,Bitcoinfoundation.org,2026-05-18T10:50:17Z,0.5,0.5,Positive,2026-05-19 17:39:42
+70,solana,"Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",Cointelegraph,2026-05-18T10:47:03Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+71,solana,"Sensex today | Stock Market Highlights: Sensex closes flat, Nifty ends at 23,650 as Iran war worries offset IT gains",BusinessLine,2026-05-18T10:32:45Z,-0.025,0.125,Neutral,2026-05-19 17:39:42
+72,solana,"Trillion-Dollar Italian Bank Moves To XRP, But How Much Have They Bought?",newsBTC,2026-05-18T10:30:37Z,0.1,0.1,Neutral,2026-05-19 17:39:42
+73,solana,stendly 0.2.1,Pypi.org,2026-05-18T09:52:58Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+74,solana,Bitcoin ETF Flows May 2026: $1.25B Outflows Hit Bitcoin and Ethereum ETFs This Week,Bitcoinfoundation.org,2026-05-18T09:44:03Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+75,solana,"Where to watch Arizona high school baseball finals: Schedule, channel, live stream for AIA 6A-3A championships",Sporting News,2026-05-18T09:30:01Z,0.1481818181818182,0.52,Positive,2026-05-19 17:39:42
+76,solana,David Seaman: Life at the top,Arsenal.com,2026-05-18T09:00:00Z,0.5,0.5,Positive,2026-05-19 17:39:42
+77,solana,Surging oil prices have been driving Ether selling pressure: Tom Lee,Cointelegraph,2026-05-18T07:02:06Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+78,solana,HIVE Digital Technologies plans 320 MW AI infrastructure project in Canada,Cointelegraph,2026-05-18T07:00:00Z,0.0,0.0,Neutral,2026-05-19 17:39:42
+79,solana,Bitcoin falls to two-week low of $76.7K as crypto market selloff triggers $661 million liquidations,The Times of India,2026-05-18T05:24:45Z,0.0,0.3,Neutral,2026-05-19 17:39:42
+80,solana,Toobit Brings 36% APR on TON to Expanding High-Yield Earn Series,GlobeNewswire,2026-05-18T05:06:00Z,0.0,0.0,Neutral,2026-05-19 17:39:42
