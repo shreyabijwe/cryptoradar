@@ -6,7 +6,7 @@ import IndicatorPanel from './IndicatorPanel';
 import ForecastChart from './ForecastChart';
 import NewsFeed from './NewsFeed';
 
-const API = 'http://127.0.0.1:8000';
+const API = 'https://cryptoradar-api.onrender.com';
 
 function Dashboard({ token, onLogout }) {
   const [kpis, setKpis] = useState(null);
