@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+# CryptoRadar — Real-Time Crypto Analytics Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack cryptocurrency analytics platform that tracks live prices in INR, predicts price trends using LSTM deep learning, analyzes market sentiment from news, and generates automated reports.
 
-## Available Scripts
+## 🔗 Live Demo
+- **Frontend:** https://cryptoradar-qk2k.vercel.app
+- **API:** https://cryptoradar-api.onrender.com/docs
+- **Login:** admin / crypto2024
 
-In the project directory, you can run:
+## 🚀 Features
+- Live crypto prices in INR — BTC, ETH, BNB, SOL from CoinGecko API
+- 90-day historical price data pipeline with SQLite storage
+- Technical indicators — RSI, MACD, Bollinger Bands, Moving Averages
+- LSTM deep learning model for 7-day Bitcoin price prediction
+- News sentiment analysis using TextBlob and NewsAPI
+- Auto-generated PDF market report with price table and charts
+- React dashboard with dark blue theme — live clock, price cards, 4 charts
+- REST API with JWT authentication — 8 endpoints
 
-### `npm start`
+## 🛠️ Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+| Layer | Technology |
+|---|---|
+| Data Pipeline | Python, CoinGecko API, requests |
+| Database | SQLite |
+| Technical Analysis | pandas, numpy |
+| Deep Learning | PyTorch, LSTM |
+| Sentiment Analysis | TextBlob, NewsAPI |
+| Backend API | FastAPI, JWT Auth |
+| PDF Reports | reportlab, matplotlib |
+| Frontend | React, Recharts |
+| Deployment | Render (API), Vercel (Frontend) |
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📊 Project Modules
 
-### `npm test`
+### 1. Data Pipeline
+- Fetch live crypto prices from CoinGecko API in INR
+- Store 90-day historical data in SQLite
+- Auto-update on every deployment
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 2. Technical Indicators
+- RSI — overbought/oversold signals
+- MACD — momentum and trend direction
+- Bollinger Bands — volatility analysis
+- Moving Averages — 7, 30, 90 day
 
-### `npm run build`
+### 3. LSTM Price Prediction
+- PyTorch LSTM neural network
+- Trained on 90-day Bitcoin price history
+- 7-day forward price forecast
+- Confidence intervals visualization
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 4. Sentiment Analysis
+- Fetch latest crypto news from NewsAPI
+- TextBlob sentiment scoring — positive, negative, neutral
+- Correlation between news sentiment and price movement
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 5. FastAPI Backend
+- 8 REST endpoints with JWT authentication
+- Live prices, historical data, indicators, sentiment, forecast
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 6. React Dashboard
+- Dark blue trading terminal theme
+- Live price cards with 24H change
+- 30-day price chart with coin selector
+- Market sentiment bar chart
+- Technical indicators panel
+- LSTM 7-day forecast chart
+- News feed with sentiment scores
 
-### `npm run eject`
+### 7. PDF Report Generator
+- Auto-generated market report
+- Live price table, Bitcoin chart, sentiment analysis
+- Auto-written market commentary
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🏃 Run Locally
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Backend
+```bash
+pip install -r requirements.txt
+python backend/data_pipeline/fetch_prices.py
+python backend/sentiment/sentiment_analysis.py
+python backend/ml_models/lstm_model.py
+uvicorn backend.api.main:app --reload
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📁 Project Structure
+cryptoradar/
+├── backend/
+│   ├── api/              # FastAPI endpoints
+│   ├── data_pipeline/    # CoinGecko data fetching
+│   ├── indicators/       # Technical indicators
+│   ├── ml_models/        # LSTM price prediction
+│   ├── sentiment/        # News sentiment analysis
+│   └── reports/          # PDF report generator
+├── frontend/
+│   └── src/
+│       └── components/   # React components
+├── database/             # SQLite database
+└── exports/              # Generated reports and data
